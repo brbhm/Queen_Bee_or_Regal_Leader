@@ -2,7 +2,7 @@
 
 Update date: Nov 29th, 2024
 
-Welcome to the Repository of Files for the paper "Queen Bees or Agents of Change? Unpacking the Effect of Female Leadership on Subordinate Women?", written by Henrique Brabo, Fernando Domingos and Paulo Arvate. Any doubts or inquires, please send an e-mail to paulo.arvate@fgv.br (corresponding Author) or henrique.brabo@fgv.edu.br
+Welcome to the Repository of Files for the paper "Queen Bees or Agents of Change? Unpacking the Effect of Female Leadership on Subordinate Women?". Any doubts or inquires, please send an e-mail to the authors.
 
 The Do-files presented here were developed using Stata 17-64MP, in a 32GB RAM computer.
 
